@@ -1,0 +1,32 @@
+Ru:
+==============================================
+Цель проекта -- Создать простую интересную игру для двоих человек!
+==============================================
+Разработанный проект включает в себя компоненты:
+- Файл написан на программном языке Python.
+- В проекте задействованы изображения из сети интернет. Такие как: изображения ракеток, пинг-понг мячика и бэграунда.
+- Наличие README с библиотеками использованными в проекте. 
+==============================================
+Отличительные особенности проекта: 
+- <<Ping-pong>> - это мультиплеерная игра на 2 человека 
+- В игре прописаны условия проигрыша и выигрыша
+==============================================
+!!!!! Приятной игры !!!!!
+==============================================
+
+Eng:
+==============================================
+The goal of the project is to create a simple and interesting game for two people!
+==============================================
+The developed project includes the following components:
+- The file is written in the Python programming language.
+- The project involves images from the Internet. Such as: images of rackets, ping pong ball and background.
+- Availability of a README with libraries used in the project.
+==============================================
+Distinctive features of the project:
+- <<Ping-pong>> is a multiplayer game for 2 people
+- The game has the conditions for losing and winning
+==============================================
+!!!!! Have a nice game !!!!!
+==============================================
+
